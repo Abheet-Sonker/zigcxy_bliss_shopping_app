@@ -35,7 +35,7 @@ products = [
     {
         "name": "Ocean Sunrise tall Shot Gel.png",
         "price": 299,
-        "stock": 8,
+        "stock": 4,
         "image": "images/Ocean Sunrise tall Shot Gel.png"
     },
     {
